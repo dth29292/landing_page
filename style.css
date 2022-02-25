@@ -61,7 +61,7 @@ header {
 
   nav ul {
     display: flex;
-    list-style: none;  
+    list-style: none;
   }
 }
 header a {
@@ -72,13 +72,14 @@ header a {
 /*HERO --------------------------*/
     @media screen and (min-width:40em) {
       .hero .content-wrap {
-      display: flex; 
+      display: flex;
       justify-content: space-between;
       align-items: center;
       }
     }
 .hero {
   background-color: var(--dark);
+  margin: 2em 0;
 }
 .hero h1{
   font-size: 48px;
@@ -88,7 +89,7 @@ header a {
 .hero p {
   color: var(--text);
 }
-picture img {  
+picture img {
   width: 100%;
   height: auto;
 }
@@ -113,7 +114,7 @@ picture img {
   text-align: center;
   color: var(--dark);
   font-size: 36px;
-  font-weight: extra-bold;  
+  font-weight: extra-bold;
 }
 .info ul {
  text-align: center;
