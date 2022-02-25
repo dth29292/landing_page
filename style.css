@@ -79,7 +79,7 @@ header a {
     }
 .hero {
   background-color: var(--dark);
-  margin: 2em 0;
+  padding: 2em 0;
 }
 .hero h1{
   font-size: 48px;
