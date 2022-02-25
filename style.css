@@ -25,16 +25,16 @@ html {
     /* padding: 60px 0; */
   }
  header {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   /* min-height: 200px; */
  }
 section {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   /* min-height: 200px; */
  }
 
 footer {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   /* min-height: 200px; */
 }
 img {
